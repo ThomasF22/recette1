@@ -4,6 +4,7 @@ liste de course :
 - farine
 - sucre
 - oeuf
+- mangues
 - beurre
 - creme fraiche
 - poivre
