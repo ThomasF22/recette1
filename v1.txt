@@ -7,3 +7,4 @@ liste de course :
 - beurre
 - creme fraiche
 - poivre
+- nutella
