@@ -1,8 +1,12 @@
 
 liste de course :
-- pommes
+- pomme
 - farine
-- oeufs
+- oeuf
+- sucre
+- oeuf
+- ananas
+- mangues
 - beurre
 - creme fraiche
 - poivre
