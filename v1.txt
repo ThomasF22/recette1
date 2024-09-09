@@ -1,9 +1,9 @@
 
 liste de course :
 - pommes
-- poires
-- fraises
 - farine
 - sucre
 - oeuf
 - beurre
+- creme fraiche
+- poivre
