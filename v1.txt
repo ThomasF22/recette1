@@ -7,3 +7,5 @@ liste de course :
 - creme fraiche
 - poivre
 - nutella
+- spaghettis
+- sauce tomate
