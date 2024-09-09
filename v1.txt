@@ -1,6 +1,6 @@
 
 liste de course :
-- pommes
+- pomme
 - farine
 - sucre
 - oeuf
