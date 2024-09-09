@@ -4,6 +4,7 @@ liste de course :
 - farine
 - sucre
 - oeuf
+- ananas
 - mangues
 - beurre
 - creme fraiche
