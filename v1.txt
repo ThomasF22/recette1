@@ -2,7 +2,6 @@
 liste de course :
 - pommes
 - farine
-- sucre
 - oeuf
 - beurre
 - creme fraiche
